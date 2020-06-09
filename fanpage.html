@@ -1,4 +1,4 @@
-<!-- This is an exercise using html. The theme for this exercise is a fanpage! In this case, it's Sailor Moon -->
+<!-- This is an exercise using html. The theme for this exercise is a fanpage! In this case, it's Sailor Moon. For this exercise, I will be using inline styling for right now. I know it's not good to mix presentation with content but for this exercise in this project I'm working on, it will be for this file page only. -->
 
 <!DOCTYPE html>
 <html lang="en-us">
@@ -8,12 +8,20 @@
     <title> Sailor Moon Fanpage</title>
 </head>
 
+<style>
+    body {
+        background-image: url('https://wallpapercave.com/wp/wp5179762.jpg');
+        background-size: 100% 100%;
+    }
+</style>
+
 <body>
-    <h1> A Sailor Moon Fan Page</h1>
-    <img src="https://dw9to29mmj727.cloudfront.net/promo/2016/5257-SeriesHeaders_SMv3_2000x800.jpg"
+    <h1 style="text-align:center;"> A Sailor Moon Fan Page</h1>
+    <img style="display:block; margin-left:auto; margin-right: auto;"
+        src="https://dw9to29mmj727.cloudfront.net/promo/2016/5257-SeriesHeaders_SMv3_2000x800.jpg"
         alt="Sailor Moon Picture" width="50%" height="50%">
-    <h2>About the Anime</h2>
-    <p>
+    <h2 style="text-align:center;">About the Anime</h2>
+    <p style="text-align:center; width:75%; display:block; margin-left:auto; margin-right:auto;">
         Sailor Moon (美少女戦士セーラームーン, Bishōjo Senshi Sērā Mūn, originally translated as Pretty Soldier Sailor Moon[1] and
         later as Pretty Guardian Sailor Moon[2][3]) is a Japanese shōjo manga series written and illustrated by Naoko
         Takeuchi. The series follows the adventures of a schoolgirl named Usagi Tsukino as she transforms into Sailor
@@ -23,8 +31,8 @@
         destruction of the Solar System. - Grabbed from Wikipedia, see more at this link <a
             href="https://en.wikipedia.org/wiki/Sailor_Moon">here</a>.
     </p>
-    <h2>Sailor Scouts:</h2>
-    <ul>
+    <h2 style="text-align:center;">Sailor Scouts:</h2>
+    <ul style="list-style-type:none; text-align:center;">
         <li>Sailor Moon</li>
         <li>Sailor Mercury</li>
         <li>Sailor Mars</li>
@@ -36,8 +44,9 @@
         <li>Sailor Neputne </li>
         <li>Sailor Saturn</li>
     </ul>
-    <h2>Sailor Moon Theme Song</h2>
-    <iframe width="500" height="300" src="https://www.youtube.com/embed/BUqpAeVyqEI" frameborder="0"
+    <h2 style="text-align:center;">Sailor Moon Theme Song</h2>
+    <iframe style="display:block; margin-left:auto; margin-right: auto; padding-bottom:50px;" width="500" height="300"
+        src="https://www.youtube.com/embed/BUqpAeVyqEI" frameborder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 
