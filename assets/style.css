@@ -16,6 +16,17 @@ h2 {
     font-size: 26px;
 }
 
+#flan-header {
+
+    padding-left: 80px;
+}
+
+#contact-header {
+    /* background-color: blue; */
+    padding-left: 30px;
+}
+
+
 a {
     color: #311b00;
 }
@@ -60,9 +71,9 @@ li {
 
 body {
     background-color: #ffff8d;
-    background-image: url("purindog.jpg");
+    /* background-image: url("https://images.assetsdelivery.com/compings_v2/cnuisin/cnuisin1805/cnuisin180500009.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
     margin: 0;
     padding: 0;
     line-height: 25px;
