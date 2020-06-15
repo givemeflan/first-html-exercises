@@ -1,5 +1,71 @@
 /* CSS for Student Bio Remake */
 
+h1 {
+    color: #ffff8d;
+    background-color: #311b00;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0px 20px 0px;
+    font-size: 38px;
+    font-family: 'Bellota', cursive;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-family: 'Bellota', cursive;
+    font-size: 26px;
+}
+
+a {
+    color: #311b00;
+}
+
+a:hover {
+    color: red;
+}
+
+.page-container {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+
+#bio-section,
+#bio-image,
+#contact-section {
+    float: left;
+}
+
+#bio-section {
+    width: 70%;
+}
+
+#bio-image {
+    margin-right: 20px;
+    width: 450px;
+    height: 250px;
+}
+
+#contact-section {
+    width: 30%;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+li {
+    font-family: 'Montserrat', sans-serif;
+}
+
 body {
-    background-color: #ffc53a;
+    background-color: #ffff8d;
+    background-image: url("purindog.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    line-height: 25px;
+    font-size: 18px;
+    color: #311b00;
 }
