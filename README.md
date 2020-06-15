@@ -16,9 +16,11 @@ This screenshot is for the hello world exercise I did. Very basic but it's there
 Doesn't the fanpage remind you of what a geocities website page would look like back in the 90s? Coincidentally, Sailor Moon premiered in the 90s as well! It wasn't too hard to go for that geocities look lol. I will admit, I have a soft spot for the geocities era since it was my first experience with website building. 
 ![fanpage-exercise](https://user-images.githubusercontent.com/66345751/84714961-324d1600-af3d-11ea-9f96-e10eb2120593.JPG)
 
+
 ## Student Bio Exercise 
 This is the example UNCC had for students to replicate. 
 ![student-bio-example](https://user-images.githubusercontent.com/66345751/84715736-5d386980-af3f-11ea-815c-e7b31411abc3.JPG)
+
 
 Here is what I created. Inspired by Sanrio's Pompompurin mascot and my love for Flan. 
 ![student-bio](https://user-images.githubusercontent.com/66345751/84715799-91ac2580-af3f-11ea-8479-41bd7e988f91.JPG)
