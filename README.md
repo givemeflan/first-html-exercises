@@ -21,5 +21,6 @@ This is the example UNCC had for students to replicate.
 ![student-bio-example](https://user-images.githubusercontent.com/66345751/84715736-5d386980-af3f-11ea-815c-e7b31411abc3.JPG)
 
 
-Here is what I created. Inspired by Sanrio's Pompompurin mascot and my love for Flan. 
-![student-bio](https://user-images.githubusercontent.com/66345751/84715799-91ac2580-af3f-11ea-8479-41bd7e988f91.JPG)
+Here is what I created; inspired by Sanrio's Pompompurin mascot and my love for Flan. I call this look, after Geocities but before Wordpress LOL. 
+![student-bio](https://user-images.githubusercontent.com/66345751/84840047-8410a180-b00c-11ea-8af6-f69ca6e4a24e.JPG)
+
