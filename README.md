@@ -4,7 +4,7 @@
 Hi there! This repository will hold some files where I practice basic HTML. These "mini-projects/homework" are based on previous exercises I did with UNCC's Bootcamp Certificate Program. It has been a while since I have last coded (job, life, Corona Virus, etc.), so I decided why not practice coding by doing all of these exercises again! If my code looks rather rudimentary I do apologize. I'm relearning everything again ^_^ 
 
 
-### Table of Contents
+## Table of Contents
 * Hello World Exercise 
 * Fanpage for a Band (in my example, I decided to do it after an anime I watched when I was a kid) 
 * Student Bio 
@@ -29,7 +29,7 @@ Here is what I created; inspired by Sanrio's Pompompurin mascot and my love for 
 ![student-bio](https://user-images.githubusercontent.com/66345751/84840047-8410a180-b00c-11ea-8af6-f69ca6e4a24e.JPG)
 
 
-### Resources 
+## Resources 
 - Link to Danish Pastry Image & Recipe: https://www.kingarthurbaking.com/recipes/danish-pastry-recipe
 - Link to Sailor Moon/Pastel Tokyo background: https://wallpapercave.com/w/wp5179762
 - Link to Sailor Moon Image: https://wall.alphacoders.com/big.php?i=454764
