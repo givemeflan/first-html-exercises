@@ -1,7 +1,7 @@
 # First HTML Exercises
 
 ## The Repository
-Hi there! This repository will hold some files where I practice basic HTML. These "mini-projects/homework" are based on previous exercises I did with UNCC's Bootcamp Certificate Program. It has been a while since I have last coded (job, life, Corona Virus, etc.), so I decided why not practice coding by doing all of these exercises again! If my code looks rather rudimentary I do apologize. I'm relearning everything again ^_^ 
+Hi there! This repository will hold some files where I practice basic HTML. When I say basic I mean BASIC :laughing: These mini projects are based on previous exercises/homework assignments I did with UNCC's Bootcamp Certificate Program. Due to the craziness of life, the state of the world, crazy job hours, and health issues (hey that's what happens when you get older), I went on a long extended period of not coding. However, I'm excited to swing back into the world of HTML, CSS, JavaScript, and other exciting languages. Be on the lookout for more repositories where I will be doing more mini projects!  
 
 
 ## Table of Contents
