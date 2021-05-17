@@ -17,7 +17,7 @@ This screenshot is for the hello world exercise I did. Very basic but it's there
 
 
 ### Fanpage for a Band (I made it for an Anime instead) Exercise
-Doesn't the fanpage remind you of what a geocities website page would look like back in the 90s? Coincidentally, Sailor Moon premiered in the 90s as well! It wasn't too hard to go for that geocities look lol. I will admit, I have a soft spot for the geocities era since it was my first experience with website building. 
+Doesn't the fanpage remind you of what a geocities website page would look like back in the 90s? Coincidentally, Sailor Moon premiered in the US during the mid 90s (correct me on this if I'm wrong) as well! It wasn't too hard to go for that geocities look lol. I will admit, I have a soft spot for the geocities era since it was my first experience with website building. 
 ![fanpage-exercise](https://user-images.githubusercontent.com/66345751/84714961-324d1600-af3d-11ea-9f96-e10eb2120593.JPG)
 
 
